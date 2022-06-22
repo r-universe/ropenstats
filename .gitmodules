@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RSQL"]
+	path = RSQL
+	url = https://github.com/ropenstats/rsql
+	shallow = true
+	registered = true
